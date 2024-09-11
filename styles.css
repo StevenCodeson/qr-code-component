@@ -32,26 +32,24 @@ p {
 }
 
 .rounded-image {
-  /* width: 400px; */
   display: flex;
   padding: 22.5px;
   border-radius: 20px;
   background-color: white;
   align-items: center;
   justify-content: center;
-  max-width: 375px;
+  max-width: 350px;
 }
 .d-flex {
-  /* padding: 100px; */
   gap: 25px;
 }
 
 .d-flex strong {
-  font-size: 28px;
+  font-size: 26px;
   line-height: 1.2;
 }
 
 .d-flex p {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.2;
 }
