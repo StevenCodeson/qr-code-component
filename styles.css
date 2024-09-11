@@ -38,18 +38,18 @@ p {
   background-color: white;
   align-items: center;
   justify-content: center;
-  max-width: 350px;
+  max-width: 300px;
 }
 .d-flex {
   gap: 25px;
 }
 
 .d-flex strong {
-  font-size: 26px;
+  font-size: 22px;
   line-height: 1.2;
 }
 
 .d-flex p {
-  font-size: 20px;
+  font-size: 16px;
   line-height: 1.2;
 }
