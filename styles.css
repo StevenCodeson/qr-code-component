@@ -33,12 +33,12 @@ p {
 
 .rounded-image {
   display: flex;
-  padding: 22.5px;
+  padding: 20px;
   border-radius: 20px;
   background-color: white;
   align-items: center;
   justify-content: center;
-  max-width: 300px;
+  max-width: 325px;
 }
 .d-flex {
   gap: 25px;
